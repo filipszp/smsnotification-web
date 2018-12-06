@@ -1,0 +1,5 @@
+/smsnotifications-model/target/
+/smsnotifications-client/target/
+/smsnotifications-service-impl/target/
+/smsnotifications-service/target/
+/smsnotifications-web/target/

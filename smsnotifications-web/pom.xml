@@ -22,11 +22,6 @@
 	<dependencies>
 		<dependency>
 			<groupId>${project.groupId}</groupId>
-			<artifactId>smsnotifications-ejb</artifactId>
-			<version>${project.version}</version>
-		</dependency>
-		<dependency>
-			<groupId>${project.groupId}</groupId>
 			<artifactId>smsnotifications-client</artifactId>
 			<version>${project.version}</version>
 		</dependency>
