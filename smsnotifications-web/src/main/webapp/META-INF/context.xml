@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="">
+  <Resource auth="Container" driverClassName="oracle.jdbc.OracleDriver" maxActive="3" maxIdle="2" maxWait="10000" name="SmsNotificDB" password="smsnotif" type="javax.sql.DataSource" url="jdbc:oracle:thin:@localhost:1521:orcl" username="smsnotif"/>
+</Context>
